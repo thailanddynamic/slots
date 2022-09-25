@@ -1,0 +1,16 @@
+{
+  "name": "nextgenslot",
+  "theme": "syntax",
+  "version": "2.0.3299",
+  "description": "สล็อต สล็อตออนไลน์ เว็บสล็อต แจกเครดิตฟรี",
+  "keywords": [
+      "สล็อตเครดิตฟรี",
+      "สล็อตออนไลน์",
+      "สล็อต",
+  ],
+  "repository": "https://github.com/nextgendevoffice/slots",
+  "license": "MIT",
+  "engines": {
+      "atom": ">=1.0.0 <2.0.0"
+  }
+}
